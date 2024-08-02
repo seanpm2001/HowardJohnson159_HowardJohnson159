@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![github contribution grid snake animation](https://github.com/howardjohnson159/howardjohnson159/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/howardjohnson159/howardjohnson159/output/github-contribution-grid-snake.svg)
+
 
 <!-- activity graph heroku-app start -->
 <br>
