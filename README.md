@@ -1,6 +1,7 @@
-## Hi there 👋
+## 🚀 Hello! I'm certificated Web & Mobile Developer. 🚀
 
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/howardjohnson159/howardjohnson159/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Grid Snake](https://github.com/howardjohnson159/howardjohnson159/output/github-contribution-grid-snake.svg)
+
 
 
 <!-- activity graph heroku-app start -->
